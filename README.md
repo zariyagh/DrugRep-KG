@@ -1,4 +1,4 @@
-# DRP-KGE
+# DrugRep-KG
 Drug Repositioning Prediction using Knowledge Graph Embedding
 ## Authors
 Zahra Ghorbanali (z_ghorbanali@aut.ac.ir), Fatemeh Zare-Mirakabad*, Mohammad Akbari, Najmeh Salehi, Ali Masoudi-Nejad
